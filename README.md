@@ -128,3 +128,22 @@ CREATE TABLE people (
 - Android Studio (2018년 기준)
 - Java, Android Support Library v7 (`Theme.AppCompat.Light.DarkActionBar`)
 - 최종 수정: 2018년 12월
+
+## 저작권
+
+Copyright © 2018 (작성자명). All rights reserved.
+
+이 프로젝트는 대학 **모바일소프트웨어** 교과목의 개인 과제로 작성된 학습용 결과물입니다.
+소스 코드의 저작권은 작성자에게 있으며, 별도의 오픈소스 라이선스를 적용하지 않습니다.
+
+- **열람·학습 목적의 참고는 자유**롭게 하셔도 됩니다.
+- **무단 복제·재배포·상업적 이용은 허용하지 않습니다.**
+- 이 코드를 **그대로 또는 일부만 수정해 자신의 과제로 제출하는 행위는 표절**에 해당하며, 그로 인해 발생하는 학사상 불이익에 대해 작성자는 책임지지 않습니다.
+- 코드를 참고해 작성한 결과물을 공개할 경우 출처를 밝혀 주시기 바랍니다.
+
+### 제3자 리소스
+- Android SDK 및 Android Support Library는 Google LLC의 저작물이며 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)을 따릅니다.
+
+### 면책
+
+이 소프트웨어는 학습 목적으로 "있는 그대로(AS IS)" 제공되며, 특정 목적에의 적합성을 포함한 어떠한 명시적·묵시적 보증도 하지 않습니다. 사용으로 인해 발생하는 데이터 손실 등의 문제에 대해 작성자는 책임을 지지 않습니다.
